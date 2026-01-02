@@ -1,0 +1,21 @@
+1. cd ~
+   mkdir documents
+
+2. cd documents
+   touch plan.txt
+
+3. echo "today is friday and im making assignment" > plan.txt
+
+4. ls -l plan.txt
+
+5. cp plan.txt plan_copy.txt
+
+6. mv documents project_documents
+
+7. mkdir archive
+
+8. mv plan_copy.txt archive
+
+9. ls -R project_documents
+
+10. realpath plan_copy.txt
