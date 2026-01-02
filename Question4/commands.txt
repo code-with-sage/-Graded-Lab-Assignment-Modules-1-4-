@@ -1,0 +1,22 @@
+1. uptime
+
+2. ps -u coder
+
+3. top -u coder
+
+4. sleep 500 &
+   jobs
+
+5. ps -u coder -o pid,comm,ni
+   reniche +3 105
+   ps -p 105 -o pid,comm,ni
+
+6. free -h
+
+7. df -h ~
+
+8. echo $0
+
+9. uname -a > system_report.txt
+
+10. ncdu ~ 
