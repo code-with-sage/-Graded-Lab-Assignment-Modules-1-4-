@@ -1,0 +1,26 @@
+1. echo "this is sample data in this file" > sample_data.txt
+
+2. ln sample_data.txt sample_hard.txt
+
+3. ln -s sample_data.txt sample_soft.txt
+
+4. ls -i sample_data.txt
+   ls -i sample_hard.txt
+   ls -i sample_soft.txt
+
+5. only explanation needed 
+
+6. ls -l sample_data.txt
+   stat sample_data.txt
+
+7. du -sh ~
+
+8. ls -lh ~
+
+9. rm sample_soft.txt
+   ls sample_soft.txt
+   cat sample_data.txt
+
+10 du sample_data.txt
+   du -sh ~
+   df
