@@ -1,0 +1,20 @@
+1. 12:38:19 up 9 days, 0 user, load average 3.78, 3.53, 3.40
+
+2. SEE IN SCREENSHORT
+
+3. SEE IN SCREENSHORT
+
+4. [1] 894
+   [1]+ Running         sleep 500 &
+
+5. SEE IN SCREENSHORT
+
+6. SEE IN SCREENSHORT
+
+7. SEE IN SCREENSHORT
+
+8. bash
+
+9. SEE IN SCREENSHORT
+
+10. bash: ncdu : command not found 
