@@ -1,0 +1,29 @@
+1. SEE IN SCREENSHORT
+
+2. SEE IN SCREENSHORT
+
+3. SEE IN SCREENSHORT
+
+4. 232584 sample_data.txt
+   232584 sample_hard.txt
+   229419 sample_soft.txt
+
+5. no commadn need see answer in explanatio.md 
+
+6. -rw-r--r-- 2 coder coder 36 jan 2 12:16 sample_data.txt
+
+7. 38M  /home/coder
+
+8. SEE IN SCREENSHORT
+
+9. SEE IN SCREENSHORT
+
+10. 1 sample_data.txt
+     38M  /home/coder
+
+     more outputs in SCREENSHORT
+
+
+DISCLAIMER: when process some command they do not give anything as output or they give very huge outgut 
+            i provided SCREENSHORTs so please go throught them 
+    
