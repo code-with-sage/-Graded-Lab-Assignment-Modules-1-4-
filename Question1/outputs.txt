@@ -1,0 +1,23 @@
+1. coder
+
+2.PROVIDED IN SCREENSHORT
+
+3. created the file user_info.txt
+
+4.1 4 32 user_info.txt
+
+5. SEE IN SCREENSHORT 
+
+6. SEE IN SCREENSHORT
+
+7. grep: log.txt: no such file or directory
+
+8. 6.5.0-1024-aws
+
+9. SEE IN SCREENSHORT
+
+10. 11:50:53 up 9 days, 18:45, 0 user, load average: 2.68, 3.35, 3.60
+
+
+DISCLAIMER: when process some command they do not give anything as output or they give very huge outgut 
+            i provided SCREENSHORTs so please go throught them 
